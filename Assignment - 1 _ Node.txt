@@ -1,0 +1,29 @@
+﻿Weekly Assignment - 1 : Node
+
+
+Total assignment marks : 50 
+
+
+Deliverables [Total marks : 45] :
+
+
+1. Setup & configure express server. [7 marks]
+2. Create a connection to a database using a library such as mongoose for mongoDB. [7 marks]
+3. User registration : [8 marks]
+   1. Implement a route to handle new user sign up.
+   2. Save user data to the database.
+4. User authentication : [8 marks]
+   1. Implement a route to handle user login.
+   2. Verify user credentials from the database.
+5. Creating a new blog post : [8 marks]
+   1. Implement a route to handle creation of a new blog post.
+   2. Add a functionality to save blog posts to the database.
+6. Create proper schemas to store all the data. (Users & blog posts) [7 marks]
+
+
+Project Deployment & submission [Total marks : 5]: 
+1. Title of your folder in github should be in the following format : [3 marks]
+   1. “Your name, Node 1, Date of submission”
+   2. Example : “John_Doe_Node_1_20th_August”
+2. Once the assignment has been created, upload all the folders on github & commit (save) all the changes, make sure you add a readme file containing detailed description of your thoughts during the assignment creation. [1 mark]
+3. Once done, kindly copy the github link of your assignment & submit the same using your dashboard. [1 mark]
